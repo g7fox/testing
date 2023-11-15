@@ -17,13 +17,5 @@
 			"Rarity": "Uncommon",
 			"Id": "Others"
 		}
-	],
-	"QuantityMin": 1,
-	"QuantityMax": 2,
-	"AllowDuplicates": false,
-	"ShouldFilterItemsByZone": true,
-	"PostSpawnActions": [
-		"SetAmmoAmount_BigStash",
-		"SetClothesDirtiness_ResidentialClothes"
 	]
 }
