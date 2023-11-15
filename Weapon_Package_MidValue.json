@@ -9,8 +9,16 @@
 		}
 	],
 	"Probability": 14,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 78,
 	"RandomDamage": 21,
 	"InitialUsage": 0,
-	"RandomUsage": 15
+	"RandomUsage": 15,
+	"PostSpawnActions": [
+		"SetAmmoAmount_BigStash",
+		"SetClothesDirtiness_ResidentialClothes"
+	]
 }

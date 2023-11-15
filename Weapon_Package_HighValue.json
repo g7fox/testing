@@ -1,7 +1,7 @@
 {
 	"Nodes": [
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "ExtremelyRare",
 			"Ids": [
 				"ItemLootTreeNodes.Military.Weapons.AssaultRifles",
 				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers",
@@ -12,8 +12,14 @@
 		}
 	],
 	"Probability": 10,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 79,
 	"RandomDamage": 20,
 	"InitialUsage": 0,
-	"RandomUsage": 15
+	"RandomUsage": 15,
+	"PostSpawnActions": [
+	]
 }
