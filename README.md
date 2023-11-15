@@ -8,10 +8,10 @@ In the main folder we try to change this Spawner Preset, so that it can spawn di
 
 
 This file is changed from the original file:
-Buildings-Armory-TV_Bunker-Examine_Crate_Big_Green.json
+- Buildings-Armory-TV_Bunker-Examine_Crate_Big_Green.json
 
 This files dosen´t exist in original loot files:
-Others.json
-Weapon_Package_HighValue.json 
-Weapon_Package_LowValue.json
-Weapon_Package_MidValue.json 
+- Others.json
+- Weapon_Package_HighValue.json 
+- Weapon_Package_LowValue.json
+- Weapon_Package_MidValue.json 
