@@ -1,0 +1,16 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.SMGs",
+				"ItemLootTreeNodes.Military.Weapons.Shotguns.Weapon_SDASS"
+			]
+		}
+	],
+	"Probability": 14,
+	"InitialDamage": 78,
+	"RandomDamage": 21,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}

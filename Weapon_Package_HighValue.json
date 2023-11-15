@@ -1,0 +1,19 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.AssaultRifles",
+				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers",
+				"ItemLootTreeNodes.Military.Weapons.LMGs",
+				"ItemLootTreeNodes.Military.Weapons.Snipers",
+				"ItemLootTreeNodes.Military.Weapons.Rifles"
+			]
+		}
+	],
+	"Probability": 10,
+	"InitialDamage": 79,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}

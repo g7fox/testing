@@ -1,0 +1,16 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Shotguns.Weapon_590A11",
+				"ItemLootTreeNodes.Military.Weapons.Handguns"
+			]
+		}
+	],
+	"Probability": 16,
+	"InitialDamage": 75,
+	"RandomDamage": 24,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}
