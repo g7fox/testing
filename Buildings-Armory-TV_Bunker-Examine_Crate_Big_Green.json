@@ -3,19 +3,20 @@
 	"Subpresets": [
 		{
 			"Rarity": "VeryRare",
-			"Id": "Weapon_Package_HighValue"
+			"Id": "Farming-Examine_Cabbage"
 		},
 		{
 			"Rarity": "Rare",
-			"Id": "Weapon_Package_MidValue"
+			"Id": "Farming-Examine_Broccoli"
 		},
 		{
-			"Rarity": "Uncommon",
-			"Id": "Weapon_Package_LowValue"
+			"Rarity": "Common",
+			"Id": "Farming-Examine_Apple"
 		},
 		{
-			"Rarity": "Uncommon",
-			"Id": "Others"
+			"Rarity": "Abundant",
+			"Id": "Farming-Examine_Pear"
 		}
 	]
 }
+
